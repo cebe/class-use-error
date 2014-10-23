@@ -17,6 +17,6 @@ Usage
 # see the error:
 php fail.php
 # will work:
-php fail.php
+php success.php
 ```
 
